@@ -1,0 +1,19 @@
+body{background-color:#CCCCCC;
+}
+
+h1{text-align:center;
+   padding:5px;
+}
+
+h1, h2{background-color:#EEEEEE;
+          font-family:arial;
+}
+
+p{font-family:arial;
+  padding-left:40px;
+  padding-right:40px;
+}
+
+li{font-family:arial;
+   list-style-type:none;
+}
